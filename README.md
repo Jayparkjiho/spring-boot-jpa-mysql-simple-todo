@@ -1,1 +1,1 @@
-# spring-security-jpa-postgre-web
+# spring-boot-jpa-mysql-todolist-simple
